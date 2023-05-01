@@ -1,0 +1,35 @@
+단축키:
+	ctrl + s --저장
+	ctrl + alt -- 복수지정
+	ctrl + / -- 주석
+
+<!DOCTYPE html> -- "이 페이지는 html로 구성되어있음" 설명
+  최고위직:
+	<html></html>  
+  고위직:
+	<head></head> 웹페이지 즉, body 설명하는 부분
+		<title></title> 웹페이지 제목 설정
+		<meta chatset="utf-8"> -- 한글 안깨지는 법
+
+	<body></body> 본문
+		<strong></strong> -- 굵게만듦
+		<u></u> -- 밑줄
+		<h1></h1> -- 가장크고 굵은 부분(가장 강조하고 싶을때)(h6까지 있음)ex)제목
+		<p></p> 단락 표시
+		<br>단락 띄우기
+		<img src="" width=""> 이미지 삽입 방법
+		<li></li> 목차 선택(아들)
+		<ul></ul> 목차들의 범위 설정(어머니)
+		<ol></ol> 어머니 + 자동 숫자 삽입 기능
+				ex) <ul>
+						<li> number1 </li>
+						<li> number2 </li>
+   		    		    </ul>
+		<table></table>(할아버지)-표
+			<tr></tr>(아빠)-열
+				<td></td>(아들)-행
+		<a href="주소" target="_blank"(새탭 열리게) title="제목"(툴팁 생성)></a> -- 하이퍼링크 설정
+
+ 
+web hosting - 대행.. 쉽지만 인터넷 원리 알수 XX
+web server - 직접 컴퓨터에 설치하는 것 ... too hard but 인터넷 원리 알수 있음.
